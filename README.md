@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -28,4 +29,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0541-reverse-string-ii) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
