@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0771-jewels-and-stones) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
 ## Math
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
