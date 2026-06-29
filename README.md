@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/1903-largest-odd-number-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
