@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
