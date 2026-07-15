@@ -2,8 +2,8 @@
  * @param {string[]} strs
  * @return {string}
  */
-function longestCommonPrefix(strs) {
-    let x = 0;
+  var longestCommonPrefix = function(strs) {
+      let x = 0;
       while (x < strs[0].length) {
           let ch = strs[0][x];
           for (let i = 1; i < strs.length; i++) {
@@ -14,4 +14,5 @@ function longestCommonPrefix(strs) {
           ++x;
       }
       return strs[0];
-}
+  };
+      
