@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0541-reverse-string-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lavanyamishra/Practice-DSA-JS-/tree/master/0268-missing-number) |
 ## Math
